@@ -1,6 +1,6 @@
 # React & Vite JS
 
-![React et Vite JS](/assets/imgs/react&viteJs.avif)
+![React et Vite JS](./assets/imgs/react&viteJs.avif)
 
 *Image illustrant React et Vite JS travaillant ensemble pour créer des applications web modernes et performantes.*
 
@@ -24,12 +24,12 @@
   - [Structure du projet](#structure-du-projet)
   - [Lancement du serveur de développement](#lancement-du-serveur-de-développement)
 - [**🏁 Conclusion**](#conclusion)
-- [**📱 First app (liens vers fichier(First-app.md))**](/First-app.md)
-  - [Installation de React Router](/First-app.md#1-installation-de-react-router)
-  - [Création des routes de l'application](/First-app.md#2-création-des-routes-de-lapplication)
-  - [Appels à une API RESTful avec Axios](/First-app.md#3-appels-à-une-api-restful-avec-axios)
-  - [Gestion des erreurs et des chargements](/First-app.md#4-gestion-des-erreurs-et-des-chargements)
-
+- [**📱 First app (liens vers fichier(First-app.md))**](./First-app.md)
+  - [Installation de React Router](./First-app.md#1-installation-de-react-router)
+  - [Création des routes de l'application](./First-app.md#2-création-des-routes-de-lapplication)
+  - [Appels à une API RESTful avec Axios](./First-app.md#3-appels-à-une-api-restful-avec-axios)
+  - [Gestion des erreurs et des chargements](./First-app.md#4-gestion-des-erreurs-et-des-chargements)
+- [🏠 retour à l'accueil](../README.md)
 ---
 
 ## Introduction

@@ -21,7 +21,8 @@
    - [Gestion et affichage des erreurs](#gestion-et-affichage-des-erreurs)
    - [Utilisation de try/catch pour gérer les exceptions](#utilisation-de-trycatch-pour-gérer-les-exceptions)
 - [**🏁 Conclusion**](#conclusion)
-- [🏠 retour à l'accueil](/React-&-Vite-JS.md)
+- [🏠 retour à l'accueil du cours](./React-&-Vite-JS.md)
+- [🏠 retour à l'accueil du repository](../README.md)
 
 ---
 
@@ -263,4 +264,6 @@ Cette structure permet de créer une application React simple qui utilise **Reac
 
 ---
 
-[🏠 retour à l'accueil](/React-&-Vite-JS.md)
+[🏠 retour à l'accueil du cours](./React-&-Vite-JS.md)
+
+[🏠 retour à l'accueil du repository](../README.md)
