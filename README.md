@@ -26,9 +26,13 @@ Chaque dossier dans ce repository correspond à un sujet spécifique et contient
 
 Les contributions à ce repository sont les bienvenues ! Si vous souhaitez ajouter un nouveau cours, corriger une erreur ou améliorer le contenu existant, n'hésitez pas à ouvrir une pull request.
 
+### Contribueur
+
+- [**👨‍💻🥇 DIGYSKY (Lilyan)**](https://github.com/DIGYSKY)
+
 ## Licence
 
-Ce contenu est sous licence [MIT](LICENSE.md). Vous êtes libre de l'utiliser, le modifier et le distribuer selon les termes de cette licence.
+Ce contenu est sous licence [GNU GPLv3](LICENSE.md). Vous êtes libre de l'utiliser, le modifier et le distribuer selon les termes de cette licence.
 
 ---
 
