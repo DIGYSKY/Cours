@@ -193,8 +193,8 @@ export default App;
 
 **React** et **Vite** forment un duo puissant pour le développement moderne d'applications web. React offre une structure basée sur des composants réutilisables et performants, tandis que Vite améliore considérablement la rapidité de développement grâce à son serveur de développement ultra-rapide et son système de build optimisé. Grâce à Vite, vous pouvez démarrer un projet React en quelques secondes, tout en bénéficiant d'une expérience de développement fluide et efficace.
 
+[Suite du cours - 📱 First app](./First-app.md)
 ---
-
 [🔝 Retour en haut](#react--vite-js)
 
 [🏠 retour à l'accueil du repository](../README.md)

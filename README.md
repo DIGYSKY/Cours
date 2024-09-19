@@ -2,7 +2,7 @@
 
 ![Image illustrative du développement web](/assets/imgs/Technologies%20web%20modernes.jpg)
 
-*Image illustrant les différentes technologies et langages utilisés dans le développement web moderne.*
+*Image illustrant les différentes technologies et langages.*
 
 ## À propos de ce repository
 
