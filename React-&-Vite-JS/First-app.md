@@ -265,5 +265,4 @@ Cette structure permet de créer une application React simple qui utilise **Reac
 ---
 
 [🏠 retour à l'accueil du cours](./React-&-Vite-JS.md)
-
-[🏠 retour à l'accueil du repository](../README.md)
+                                                                                                  [🏠 retour à l'accueil du repository](../README.md)

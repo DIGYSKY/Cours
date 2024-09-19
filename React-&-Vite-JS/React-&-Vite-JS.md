@@ -29,7 +29,7 @@
   - [Création des routes de l'application](./First-app.md#2-création-des-routes-de-lapplication)
   - [Appels à une API RESTful avec Axios](./First-app.md#3-appels-à-une-api-restful-avec-axios)
   - [Gestion des erreurs et des chargements](./First-app.md#4-gestion-des-erreurs-et-des-chargements)
-- [🏠 retour à l'accueil](../README.md)
+- [🏠 retour à l'accueil du repository](../README.md)
 ---
 
 ## Introduction
@@ -196,3 +196,5 @@ export default App;
 ---
 
 [🔝 Retour en haut](#react--vite-js)
+
+[🏠 retour à l'accueil du repository](../README.md)
