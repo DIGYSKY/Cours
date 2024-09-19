@@ -32,7 +32,7 @@ Les contributions à ce repository sont les bienvenues ! Si vous souhaitez ajout
 
 ## Licence
 
-Ce contenu est sous licence [GNU GPLv3](LICENSE.md). Vous êtes libre de l'utiliser, le modifier et le distribuer selon les termes de cette licence.
+Ce contenu est sous licence [GNU GPLv3](LICENSE). Vous êtes libre de l'utiliser, le modifier et le distribuer selon les termes de cette licence.
 
 ---
 
